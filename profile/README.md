@@ -21,6 +21,6 @@ CrossFitLink입니다!
 
 ## 결론
 
-## Wiki  
+## 관련 문서
 
 [Wiki](https://github.com/CrossFitLink/.github/wiki)
