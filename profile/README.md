@@ -21,4 +21,6 @@ CrossFitLink입니다!
 
 ## 결론
 
-## 주요 문서
+## Wiki  
+
+[Wiki](https://github.com/CrossFitLink/.github/wiki)
